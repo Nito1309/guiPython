@@ -1,0 +1,12 @@
+Nombre: Esmeralda Preciado Perez
+Cargo: Jugueteria
+Empresa: Walmart
+Domicilio: Emilio Acevedo 2220 1
+Centro
+Guadalajara, Jalisco 44569
+
+Teléfono: 3345893546
+Correo electrónico: Esmeralda@hotmail.com
+
+Fecha de nacimiento: 1998-10-09
+Edad: 24

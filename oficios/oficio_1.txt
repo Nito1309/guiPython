@@ -1,0 +1,12 @@
+Nombre: Juan Rodriguez Gutierrez
+Cargo: Jefe
+Empresa: Walmart
+Domicilio: Emilio Acevedo 2229 1
+Centro
+Guadalajara, Jalisco 44569
+
+Teléfono: 3318239239
+Correo electrónico: juanpa1099@hotmail.com
+
+Fecha de nacimiento: 1999-09-13
+Edad: 23

@@ -1,0 +1,12 @@
+Nombre: {nombre} {apellido1} {apellido2}
+Cargo: {cargo}
+Empresa: {empresa}
+Domicilio: {calle} {numeroExt} {numeroInt}
+{colonia}
+{municipio}, {estado} {codigoPostal}
+
+Teléfono: {telefono}
+Correo electrónico: {correoElectronico}
+
+Fecha de nacimiento: {fechaNacimiento}
+Edad: {edad}

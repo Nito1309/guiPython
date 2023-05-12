@@ -1,0 +1,12 @@
+Nombre: Manuel Rodriguez Perez
+Cargo: Cajero
+Empresa: Walmart
+Domicilio: Emilio Acevedo 2229 1
+Centro
+Guadalajara, Jalisco 44569
+
+Teléfono: 3334658499
+Correo electrónico: manuel@hotmail.com
+
+Fecha de nacimiento: 1998-10-09
+Edad: 24
